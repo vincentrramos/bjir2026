@@ -74,4 +74,10 @@ Project_Folder/
 *For any queries or clarifications, or ideas for future research using this data, please do not hesitate to reach out to [vrramos@up.edu.ph](mailto:vrramos@up.edu.ph) or [v.ramos@southampton.ac.uk](mailto:v.ramos@southampton.ac.uk)*
 
 ## Acknowledgements / Funding
-*This research benefitted from funding from the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) – 390285477/GRK 2458, the Economic and Social Research Council as part of the Centre for Population Change: Connecting Generations Centre grant ES/W002116/1, and the Philippine Competition Commission's 2022 Long-Term Research Program Grant. .*
+*This research benefitted from funding from the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) – 390285477/GRK 2458, the Economic and Social Research Council as part of the Centre for Population Change: Connecting Generations Centre grant ES/W002116/1, and the Philippine Competition Commission's 2022 Long-Term Research Program Grant.*
+
+## Citation
+
+If you are using this replication package, please cite the main article in lieu of this GitHub repository.
+
+
