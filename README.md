@@ -76,8 +76,14 @@ Project_Folder/
 ## Acknowledgements / Funding
 *This research benefitted from funding from the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) – 390285477/GRK 2458, the Economic and Social Research Council as part of the Centre for Population Change: Connecting Generations Centre grant ES/W002116/1, and the Philippine Competition Commission's 2022 Long-Term Research Program Grant.*
 
-## Citation
+## License and Citation
+
+The replication code in this repository is released under the MIT License. See the `LICENSE` file for details.
+
+The license applies only to the code and documentation in this repository. The underlying survey data are not redistributed here and remain subject to the access conditions and terms of use of the original data provider.
 
 If you are using this replication package, please cite the main article in lieu of this GitHub repository.
+
+Ramos, V. J. (2026). Too Little, Too Weak? Paid Parental Leaves in Philippine Collective Bargaining Agreements. British Journal of Industrial Relations.
 
 
