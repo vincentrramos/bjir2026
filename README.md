@@ -1,4 +1,4 @@
-# Replication Package for Ramos (2026)
+# Replication Package for Ramos (2026) British Journal of Industrial Relations
 
 **Title:** Too Little, Too Weak? Paid Parental Leaves in Philippine Collective Bargaining Agreements 
 
